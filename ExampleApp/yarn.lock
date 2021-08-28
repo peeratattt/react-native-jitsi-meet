@@ -5497,8 +5497,8 @@ react-is@^16.12.0, react-is@^16.8.1, react-is@^16.8.4, react-is@^16.8.6:
   integrity sha512-24e6ynE2H+OKt4kqsOvNd8kBpV65zoxbA4BVsEOB3ARVWQki/DHzaUoC5KuON/BiccDaCCTZBuOcfZs70kR8bQ==
 
 "react-native-jitsi-meet@github:peeratattt/react-native-jitsi-meet":
-  version "2.1.2"
-  resolved "https://codeload.github.com/peeratattt/react-native-jitsi-meet/tar.gz/3e3d66773636f95acea70319c4cce5e180fc26f5"
+  version "2.3.0"
+  resolved "https://codeload.github.com/peeratattt/react-native-jitsi-meet/tar.gz/921e98a998cc291b303fbe840c2f999b9abfa67f"
 
 react-native@0.63.4:
   version "0.63.4"

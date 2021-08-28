@@ -69,7 +69,7 @@ PODS:
     - DoubleConversion
     - glog
   - glog (0.3.5)
-  - JitsiMeetSDK (3.8.1)
+  - JitsiMeetSDK (3.8.0)
   - libevent (2.1.12)
   - OpenSSL-Universal (1.1.1100)
   - RCTRequired (0.63.4)
@@ -238,8 +238,8 @@ PODS:
     - React-cxxreact (= 0.63.4)
     - React-jsi (= 0.63.4)
   - React-jsinspector (0.63.4)
-  - react-native-jitsi-meet (2.1.2):
-    - JitsiMeetSDK (= 3.8.1)
+  - react-native-jitsi-meet (2.3.0):
+    - JitsiMeetSDK (= 3.8.0)
     - React
   - React-RCTActionSheet (0.63.4):
     - React-Core/RCTActionSheetHeaders (= 0.63.4)
@@ -446,7 +446,7 @@ SPEC CHECKSUMS:
   FlipperKit: f42987ea58737ac0fb3fbc38f8e703452ba56940
   Folly: b73c3869541e86821df3c387eb0af5f65addfab4
   glog: 40a13f7840415b9a77023fbcae0f1e6f43192af3
-  JitsiMeetSDK: 7bfbfd9b8d49225c5c1f5a87cd1d675230f11ffc
+  JitsiMeetSDK: 9023f68ff93e12f4abd8e8f726dc780a966c6f92
   libevent: 4049cae6c81cdb3654a443be001fb9bdceff7913
   OpenSSL-Universal: ebc357f1e6bc71fa463ccb2fe676756aff50e88c
   RCTRequired: 082f10cd3f905d6c124597fd1c14f6f2655ff65e
@@ -459,7 +459,7 @@ SPEC CHECKSUMS:
   React-jsi: a0418934cf48f25b485631deb27c64dc40fb4c31
   React-jsiexecutor: 93bd528844ad21dc07aab1c67cb10abae6df6949
   React-jsinspector: 58aef7155bc9a9683f5b60b35eccea8722a4f53a
-  react-native-jitsi-meet: 31081aeafc3a6e71532504b12f85c12b75de66ca
+  react-native-jitsi-meet: b6e7b2fe07c3fe27d7de314d0ca4727c51de537e
   React-RCTActionSheet: 89a0ca9f4a06c1f93c26067af074ccdce0f40336
   React-RCTAnimation: 1bde3ecc0c104c55df246eda516e0deb03c4e49b
   React-RCTBlob: a97d378b527740cc667e03ebfa183a75231ab0f0
